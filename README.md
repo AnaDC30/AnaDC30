@@ -7,7 +7,7 @@
 ## 👩‍💻 Sobre mí
 
 - 🎓 Estudiante y desarrolladora en formación continua  
-- 💻 Apasionada por el desarrollo backend y herramientas de gestión empresarial  
+- 💻 Apasionada por el desarrollo fronted y herramientas de gestión empresarial  
 - 📦 Actualmente creando módulos personalizados para **Dolibarr ERP/CRM**  
 - 🌱 Aprendiendo día a día sobre **Java**, **PHP**, **MySQL**, **Spring Boot**, y **Desarrollo Web**
 
